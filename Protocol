@@ -1,0 +1,102 @@
+## Protocolo OmniPrep para Extração de DNA de Tecidos (Aranhas)
+**Laboratório AMS, Universidade de Idaho**  
+**Autora: Andrea Noble Stuen (Atualizado em Julho 2021 e Abril 2024)**
+
+---
+
+### 📂 Materiais do Kit
+**Armazenamento em temperatura ambiente (RT):**
+- Genomic Lysis Buffer
+- DNA Stripping Solution
+- Precipitation Solution
+
+**Congelador (-20°C):**
+- Mussel Glycogen
+- RNase
+- Proteinase K
+
+**Geladeira (4°C):**
+- TE Buffer
+
+---
+
+### 📚 Materiais Necessários
+- Clorofórmio
+- Isopropanol 100% (armazenado no congelador)
+- Etanol 70% (armazenado no congelador)
+
+---
+
+### 🧹 Preparação Inicial
+**Esterilização:**
+- Limpe bancada, tesouras e pinças com álcool 70% e hipoclorito de sódio (NaClO).
+- Prepare 3 conjuntos de tubos de microcentrífuga de 1,5 mL e rotule-os.
+
+**Coleta de Amostras:**
+- Retire as amostras do freezer/geladeira.
+- Adicione 500 µL de Genomic Lysis Buffer ao primeiro conjunto de tubos.
+
+**Processamento do Tecido:**
+- Corte ~10 mg de tecido (aprox. 2 mm²), remova excesso de etanol com kimwipe.
+- Coloque o tecido no tubo com Lysis Buffer.
+- (Opcional) Incube a 55-65°C por 15 min para amolecer.
+- Homogeneíze com pistilo (30-60 movimentos) ou tesoura esterilizada.
+- Adicione 5-10 µL de Proteinase K, misture suavemente, centrifugue rapidamente.
+- Incube a 55-60°C por 1-2 horas com agitação.
+
+**Resfriamento:**
+- Deixe atingir temperatura ambiente.
+- Prepare o segundo conjunto de tubos.
+
+---
+
+### 📊 Purificação do DNA
+**Adicião de Clorofórmio (capela):**
+- Adicione 200 µL de clorofórmio, inverta para misturar.
+- Centrifugue a 14.000xg por 10 minutos.
+- Transfira a fase superior para novo tubo (descarte o antigo).
+
+**DNA Stripping Solution:**
+- Adicione 50 µL, inverta para misturar.
+- Incube a 60°C por 5-10 minutos.
+
+**Precipitação do DNA:**
+- Adicione 100 µL de Precipitation Solution e inverta.
+- Se não houver precipitado branco, adicione mais 50 µL.
+- Centrifugue a 14.000xg por 5 minutos.
+- Transfira o sobrenadante para o terceiro conjunto de tubos limpos.
+
+---
+
+### 🚗 Finalização e Armazenamento
+**Precipitação com Isopropanol:**
+- Adicione 500 µL de isopropanol gelado + 2 µL de Mussel Glycogen.
+- Inverta 10x para precipitar o DNA.
+- (Opcional: incubar no gelo por 30 min para baixa qualidade.)
+- Centrifugue a 14.000xg por 5 minutos. Descarte o sobrenadante.
+
+**Preparação de Reagentes:**
+- Descongele o RNase LongLife™.
+- Mantenha o etanol 70% em gelo.
+
+**Lavagem com Etanol:**
+- Adicione 700 µL de etanol gelado (70%), inverta para lavar.
+- Centrifugue a 14.000xg por 1 minuto.
+- Remova o etanol com pipeta ou decantação.
+- Seque o pellet invertendo o tubo sobre kimwipes (não deixe secar demais).
+
+**Reidratação do DNA:**
+- Adicione 75 µL de TE Buffer + 0,5 µL de RNase LongLife™.
+- Incube por 15 min (RT) ou 5-60 min a 55-60°C.
+
+**Armazenamento:**
+- 4°C por 24h para eluição completa.
+- -20°C ou -80°C para longo prazo.
+
+---
+
+### 🔹 Observações
+- Evite temperaturas acima de 60°C.
+- O pellet de DNA pode ser pouco visível após centrifugação.
+- Protocolo adaptado para tecidos não compatíveis com kits Qiagen.
+
